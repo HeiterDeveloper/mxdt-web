@@ -1,0 +1,10 @@
+
+.containerListagem{
+    width: 90%;
+    height: auto;
+    margin: 40px auto 0px;
+    box-shadow: 0px 0px 8px 2px #eee;
+}
+.containerListagem .form-group{
+    display:inline-block;
+}
